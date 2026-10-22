@@ -24,5 +24,6 @@ Créer et déployer une petite application Full Stack MERN fonctionnelle, versio
 - `GET /api/items` : Récupère la liste des éléments.
 - `POST /api/items` : Ajoute un nouvel élément.
 ## Liens de déploiement
-- Frontend : [https://mern-mohammed-ziad-frontend.vercel.app](https://mern-mohammed-ziad-frontend.vercel.app)
-- Backend : [https://mern-mohammed-ziad.vercel.app](https://mern-mohammed-ziad.vercel.app)
+- **Frontend :** [https://mern-mohammed-ziad-frontend.vercel.app](https://mern-mohammed-ziad-frontend.vercel.app)
+- **Backend Principal :** [https://mern-mohammed-ziad.vercel.app](https://mern-mohammed-ziad.vercel.app)
+- **Backend de Secours (Cloudflare) :** [https://mern-mohammed-ziad.pages.dev](https://mern-mohammed-ziad.pages.dev)
