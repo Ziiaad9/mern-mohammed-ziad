@@ -4,14 +4,23 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>TP1 - Git et Vercel</title>
+    <title>Application MERN</title>
     <link rel="stylesheet" href="style.css">
 </head>
 
 <body>
-    <h1 id="titre-principal"></h1>
+    <div class="container">
+        <h1>Liste des Éléments</h1>
+        <div id="error-message" class="error"></div>
 
-    <script src="script.js"></script>
+        <form id="item-form">
+            <input type="text" id="nom" placeholder="Nom de l'élément" required>
+            <button type="submit">Ajouter</button>
+        </form>
+
+        <ul id="item-list"></ul>
+    </div>
+    <script src="app.js"></script>
 </body>
 
 </html>
