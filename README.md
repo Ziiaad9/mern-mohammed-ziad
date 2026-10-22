@@ -23,3 +23,6 @@ Créer et déployer une petite application Full Stack MERN fonctionnelle, versio
 - `GET /api/health` : Vérifie l'état du serveur.
 - `GET /api/items` : Récupère la liste des éléments.
 - `POST /api/items` : Ajoute un nouvel élément.
+## Liens de déploiement
+- Frontend : [https://mern-mohammed-ziad-frontend.vercel.app](https://mern-mohammed-ziad-frontend.vercel.app)
+- Backend : [https://mern-mohammed-ziad.vercel.app](https://mern-mohammed-ziad.vercel.app)
